@@ -1,0 +1,4 @@
+baseURL: https://derryalex.github.io/
+languageCode: en-US
+title: Thoughts and Stories
+theme: "hugo-narrow"
